@@ -88,4 +88,4 @@ Synthetic media is evolving rapidly, often used by bad actors for misinformation
 
 Please find the complete technical deep-dive including confusion matrices, ROC curves, and top-ranking "Red Flag" features here:
 
-- [Full Final Presentation: Detecting Synthetic Facial Images](#)
+- [Full Final Presentation: Detecting Synthetic Facial Images](https://github.com/lin-jhe-yu/Detecting-Synthetic-Facial-Images/blob/main/ML1%20Final%20Presentation.pdf)
