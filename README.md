@@ -1,3 +1,5 @@
+<img width="1090" height="293" alt="Image" src="https://github.com/user-attachments/assets/681a95cf-a784-43e2-aea9-61bf8bf2c880" />
+
 # Detecting Synthetic Facial Images
 
 ## Executive Summary
